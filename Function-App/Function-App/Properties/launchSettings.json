@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Function_App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7066",
+      "launchBrowser": false
+    }
+  }
+}
