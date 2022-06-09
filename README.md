@@ -23,3 +23,4 @@ http://localhost:7071/api/sum?x=4&y=6
 The sum was calculated in Azure platform using the link that was gotten from *get function url* in the function tab of azure function app that was created earlier 
 
 https://calculateor.azurewebsites.net/api/sum?code=EsRjPbim3qkRt8DrJdE9Wvc7lSrB4shbGedKoWazSVTpAzFuFfkX9A==&x=10&y=18
+This is my edited version, hope it get merge with the code
