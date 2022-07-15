@@ -24,8 +24,7 @@ The sum was calculated in Azure platform using the link that was gotten from *ge
 
 https://calculateor.azurewebsites.net/api/sum?code=EsRjPbim3qkRt8DrJdE9Wvc7lSrB4shbGedKoWazSVTpAzFuFfkX9A==&x=10&y=18
 
-
-#*Secondly Creating Azure Function App*
+# Secondly-creating-Azure-Function App
 
 Azure Functions lets you run your code in a serverless environment without having to first create a virtual machine (VM) or publish a web application.  
 
