@@ -35,7 +35,7 @@ On the Hosting page, enter the following settings. *Operating system- Windows *P
 Select "Review + create" to review the app configuration selections.   
 On the "Review + create" page, review your settings, and then select "Create" to provision and deploy the function app.  
 Select "Go to resource" to view your new function app. You can also select Pin to dashboard. Pinning makes it easier to return to this function app resource from your dashboard.  
-#*Lastly deploying from Deploy your code to Azure*  
+# Deploying from VS code to Azure 
 Search for "Publish" Select Azure / Right-click on the project in Solution Explorer and select "Publish"
 Then select "Azure function App (windows)" Click Next.
 Then choose Select Existing.
