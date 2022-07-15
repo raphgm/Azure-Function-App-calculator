@@ -25,7 +25,7 @@ The sum was calculated in Azure platform using the link that was gotten from *ge
 https://calculateor.azurewebsites.net/api/sum?code=EsRjPbim3qkRt8DrJdE9Wvc7lSrB4shbGedKoWazSVTpAzFuFfkX9A==&x=10&y=18
 
 
-#Secondly Creating Azure Function App
+#*Secondly Creating Azure Function App*
 
 Azure Functions lets you run your code in a serverless environment without having to first create a virtual machine (VM) or publish a web application.  
 
@@ -36,7 +36,7 @@ On the Hosting page, enter the following settings. *Operating system- Windows *P
 Select "Review + create" to review the app configuration selections.   
 On the "Review + create" page, review your settings, and then select "Create" to provision and deploy the function app.  
 Select "Go to resource" to view your new function app. You can also select Pin to dashboard. Pinning makes it easier to return to this function app resource from your dashboard.  
-#Lastly deploying from Deploy your code to Azure  
+#*Lastly deploying from Deploy your code to Azure*  
 Search for "Publish" Select Azure / Right-click on the project in Solution Explorer and select "Publish"
 Then select "Azure function App (windows)" Click Next.
 Then choose Select Existing.
