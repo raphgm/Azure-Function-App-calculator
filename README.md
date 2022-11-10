@@ -40,9 +40,9 @@ On the "Review + create" page, review your settings, and then select "Create" to
 - Search for "Publish" Select Azure / Right-click on the project in Solution Explorer and select "Publish" 
 - Then select "Azure function App (windows)" Click Next. 
 - Then choose Select Existing. 
-"Select Finish", and on the Publish page, select "Publish" to deploy the package containing your project files to your new function app in Azure.
-After the deployment completes, the root URL of the function app in Azure is shown in the Publish tab.
+- "Select Finish", and on the Publish page, select "Publish" to deploy the package containing your project files to your new function app in Azure.  
+- After the deployment completes, the root URL of the function app in Azure is shown in the Publish tab.  
 - From the left menu of the Function App window, select "Functions"
-Select "Get function url"
-The sum was calculated in Azure platform using the link that was gotten from "Get function url" in the function tab of azure function app that was created earlier: https://calculatortests.azurewebsites.net/api/Sum?code=OSpJGrRT9wz8Pcgx3w8SdhM7mY6cGge_Vw1ZRW7tEIVCAzFu-EG8fg==&x=6&y=4
-Thank you for Reading.
+- Select "Get function url"  
+- The sum was calculated in Azure platform using the link that was gotten from "Get function url" in the function tab of azure function app that was created earlier:     https://calculatortests.azurewebsites.net/api/Sum?  code=OSpJGrRT9wz8Pcgx3w8SdhM7mY6cGge_Vw1ZRW7tEIVCAzFu-EG8fg==&x=6&y=4  
+- Thank you for Reading.  
